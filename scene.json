@@ -1,0 +1,48 @@
+{
+  "display": {
+    "title": "Gameface Gamer Bar",
+    "favicon": "favicon_asset",
+    "navmapThumbnail": "scene-thumbnail.png"
+  },
+  "owner": "",
+  "contact": {
+    "name": "Kakashi1810",
+    "email": ""
+  },
+  "main": "bin/game.js",
+  "tags": [],
+  "scene": {
+    "parcels": [
+      "0,0",
+      "0,1",
+      "1,0",
+      "1,1"
+    ],
+    "base": "0,0"
+  },
+  "communications": {
+    "type": "webrtc",
+    "signalling": "https://signalling-01.decentraland.org"
+  },
+  "policy": {
+    "contentRating": "E",
+    "fly": true,
+    "voiceEnabled": true,
+    "blacklist": [],
+    "teleportPosition": ""
+  },
+  "source": {
+    "version": 1,
+    "origin": "builder",
+    "projectId": "5e5c7158-728e-4012-b534-550dbb3f364c",
+    "point": {
+      "x": 0,
+      "y": 0
+    },
+    "rotation": "east",
+    "layout": {
+      "rows": 2,
+      "cols": 2
+    }
+  }
+}
